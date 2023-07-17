@@ -8,3 +8,5 @@
 
 - **git add .:** adiciona todos os arquivos para a esteira de commit.
 - **git add <pasta/arquivo>:** adiciona só o arquivo específico para a esteira de commit.
+
+### git commit
